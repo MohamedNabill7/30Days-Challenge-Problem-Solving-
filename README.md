@@ -1,2 +1,2 @@
-# 30Days-Challenge-Problem-Solving-
+# 30Days-Challenge-Problem-Solving
 Problem Solving from HackerRank
