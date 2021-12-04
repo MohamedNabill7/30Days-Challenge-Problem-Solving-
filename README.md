@@ -8,3 +8,5 @@ Day 2 : Beautiful Days at the Movies (https://www.hackerrank.com/challenges/beau
 Day 3 : Viral Advertising (https://www.hackerrank.com/challenges/strange-advertising/) 
         Find Digits(https://www.hackerrank.com/challenges/find-digits/) 
 
+
+ <a href="https://www.w3schools.com/">Visit W3Schools.com!</a> 
