@@ -7,5 +7,7 @@ Day 2 :  <a href="https://www.hackerrank.com/challenges/beautiful-days-at-the-mo
 
 Day 3 :  <a href="https://www.hackerrank.com/challenges/strange-advertising/"> Viral Advertising </a>  &   <a href="https://www.hackerrank.com/challenges/find-digits/"> Find Digits </a> 
 
+Day 4 : <a href="https://www.hackerrank.com/challenges/angry-professor/"> Angry Professor </a>
+
 
 
