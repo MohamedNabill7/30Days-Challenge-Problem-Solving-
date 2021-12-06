@@ -9,5 +9,6 @@ Day 3 :  <a href="https://www.hackerrank.com/challenges/strange-advertising/"> V
 
 Day 4 : <a href="https://www.hackerrank.com/challenges/angry-professor/"> Angry Professor </a>
 
+Day 5 : <a href=""https://www.hackerrank.com/challenges/circular-array-rotation/> Circular Array Rotation </a>
 
 
