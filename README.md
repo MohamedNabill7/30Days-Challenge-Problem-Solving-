@@ -11,4 +11,4 @@ Day 4 : <a href="https://www.hackerrank.com/challenges/angry-professor/"> Angry 
 
 Day 5 : <a href="https://www.hackerrank.com/challenges/circular-array-rotation/"> Circular Array Rotation </a>
 
-
+Day 6 : <a herf="https://www.hackerrank.com/skills-verification/problem_solving_basic"> HackerRank Problem Solving (Basic) Skills Certification Test </a>
