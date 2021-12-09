@@ -14,3 +14,5 @@ Day 5 : <a href="https://www.hackerrank.com/challenges/circular-array-rotation/"
 Day 6 : <a href="https://www.hackerrank.com/skills-verification/problem_solving_basic"> HackerRank Problem Solving (Basic) Skills Certification Test </a>
 
 Day 7 : <a href="https://www.hackerrank.com/challenges/sock-merchant/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup"> Sales by Match </a>
+
+Day 8 : <a href="https://www.hackerrank.com/challenges/repeated-string/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup"> Repeated String </a>
