@@ -1,0 +1,31 @@
+from math import sqrt
+import os
+
+# Complete the 'primality' function below.
+# The function is expected to return a STRING.
+# The function accepts INTEGER n as parameter.
+
+def primality(n):
+    # Write your code here
+    prime_flag = 0
+    if(n > 1):
+        for i in range(2 ,int(sqrt(n)) + 1):
+            if (n % i== 0):
+                prime_flag = 1
+                break
+        if prime_flag == 1:
+            return 'Not prime'
+        else:
+            return 'Prime'
+    
+    else:
+        return 'Not prime'
+
+if __name__ == '__main__':
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+    p = int(input().strip())
+    for p_itr in range(p):
+        n = int(input().strip())
+        result = primality(n)
+        fptr.write(result + '\n')
+    fptr.close()
