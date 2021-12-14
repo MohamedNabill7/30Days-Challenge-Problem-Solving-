@@ -20,3 +20,5 @@ Day 8 : <a href="https://www.hackerrank.com/challenges/repeated-string/problem?i
 Day 9 : <a href="https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=warmup"> Jumping on the Clouds </a> & <a href="https://www.hackerrank.com/challenges/flipping-bits/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous"> Flipping bits </a>
 
 Day 10 : <a href="https://www.hackerrank.com/challenges/ctci-big-o/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous"> Time Complexity: Primality </a>
+
+Day 11 : <a href="https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays"> 2D Array - DS </a>
