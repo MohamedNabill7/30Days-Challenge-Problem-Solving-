@@ -1,7 +1,7 @@
 # 30Days-Challenge-Problem-Solving
 Problem Solving from HackerRank
 
-Day 1 :  <a href="https://www.hackerrank.com/challenges/utopian-tree/"> Utopian Tree </a> 
+Day 1 :  <a href="https://www.hackerrank.com/challenges/utopian-tree/"> Utopian Tree </a>  || <a href="https://github.com/MohamedNabill7/30Days-Challenge-Problem-Solving-/blob/main/Day%201"> Solution </a>
 
 Day 2 :  <a href="https://www.hackerrank.com/challenges/beautiful-days-at-the-movies/"> Beautiful Days at the Movies </a> 
 
