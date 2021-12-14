@@ -22,3 +22,5 @@ Day 9 : <a href="https://www.hackerrank.com/challenges/jumping-on-the-clouds/pro
 Day 10 : <a href="https://www.hackerrank.com/challenges/ctci-big-o/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=miscellaneous"> Time Complexity: Primality </a> || <a href="https://github.com/MohamedNabill7/30Days-Challenge-Problem-Solving-/blob/main/Day%2010"> Solution </a>
 
 Day 11 : <a href="https://www.hackerrank.com/challenges/2d-array/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays"> 2D Array - DS </a> || <a href="https://github.com/MohamedNabill7/30Days-Challenge-Problem-Solving-/blob/main/Day%2011"> Solution </a>
+
+Day 12 : <a href="https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays&h_r=next-challenge&h_v=zen"> Arrays: Left Rotation </a> || <a href="https://github.com/MohamedNabill7/30Days-Challenge-Problem-Solving-/blob/main/Day%2012"> Solution </a>
