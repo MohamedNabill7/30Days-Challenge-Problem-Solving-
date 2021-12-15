@@ -44,4 +44,3 @@ if __name__ == '__main__':
 
     fptr.close()
     
-    ![](https://www.nayuki.io/res/next-lexicographical-permutation-algorithm/next-permutation-algorithm.svg)
