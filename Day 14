@@ -1,0 +1,36 @@
+Code:
+
+import os
+
+# Complete the minimumSwaps function below.
+def minimumSwaps(arr):
+    ans = 0
+    n = len(arr)
+    temp = arr.copy()
+    temp.sort()
+    h = {}
+    
+    for i in range(n):
+        h[arr[i]] = i
+        
+    init = 0
+    for i in range(n):
+        # checking whetherthe current element is at the right place or not
+        if(arr[i] != temp[i]):
+            ans += 1
+            init = arr[i]
+        #swap this element with the index of the element which should come here
+            arr[i], arr[h[temp[i]]] = arr[h[temp[i]]], arr[i]
+        #Update the indexes in the hashmap 
+            h[init] = h[temp[i]]
+            h[temp[i]] = i
+    return ans
+            
+
+if __name__ == '__main__':
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
+    n = int(input())
+    arr = list(map(int, input().rstrip().split()))
+    res = minimumSwaps(arr)
+    fptr.write(str(res) + '\n')
+    fptr.close()
