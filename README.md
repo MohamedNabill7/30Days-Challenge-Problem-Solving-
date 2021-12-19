@@ -26,3 +26,5 @@ Day 11 : <a href="https://www.hackerrank.com/challenges/2d-array/problem?isFullS
 Day 12 : <a href="https://www.hackerrank.com/challenges/ctci-array-left-rotation/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays&h_r=next-challenge&h_v=zen"> Arrays: Left Rotation </a> || <a href="https://github.com/MohamedNabill7/30Days-Challenge-Problem-Solving-/blob/main/Day%2012"> Solution </a>
 
 Day 13 : <a href="https://www.hackerrank.com/challenges/bigger-is-greater/problem?isFullScreen=true"> Bigger is Greater </a> || <a href="https://github.com/MohamedNabill7/30Days-Challenge-Problem-Solving-/blob/main/Day%2013"> Solution </a>
+
+Day 14 : <a href="https://www.hackerrank.com/challenges/minimum-swaps-2/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays"> Minimum Swaps 2 </a> || <a href="https://github.com/MohamedNabill7/30Days-Challenge-Problem-Solving-/blob/main/Day%2014"> Solution </a>
