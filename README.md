@@ -32,3 +32,5 @@ Problem Solving from HackerRank
 **Day 15** : <a href="https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting"> Bubble Sort </a> || <a href="https://github.com/MohamedNabill7/30Days-Challenge-Problem-Solving-/blob/main/Day%2015"> Solution </a>
 
 **Day 16** :<a href="https://www.hackerrank.com/challenges/sparse-arrays/problem?isFullScreen=true"> Sparse Arrays </a> || <a href="https://github.com/MohamedNabill7/30Days-Challenge-Problem-Solving-/blob/main/Day%2016"> Solution </a>
+
+**Day 17** :<a href="https://www.hackerrank.com/challenges/mark-and-toys/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting"> Mark and Toys </a> || <a href="https://github.com/MohamedNabill7/30Days-Challenge-Problem-Solving-/blob/main/Day%2017"> Solution </a>
