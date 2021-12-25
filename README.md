@@ -37,3 +37,7 @@ Problem Solving from HackerRank
 
 **Day 18** :<a href="https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting"> Sorting: Comparator </a> || <a href="https://github.com/MohamedNabill7/30Days-Challenge-Problem-Solving-/blob/main/Day%2018"> Solution </a>
 
+**Day 19** :<a href="https://www.hackerrank.com/challenges/fraudulent-activity-notifications/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting&h_r=next-challenge&h_v=zen"> Fraudulent Activity Notifications </a> || <a href="https://github.com/MohamedNabill7/30Days-Challenge-Problem-Solving-/blob/main/Day%2019"> Solution </a>
+
+
+
