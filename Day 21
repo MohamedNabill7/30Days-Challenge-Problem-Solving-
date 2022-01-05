@@ -19,3 +19,15 @@ class Solution:
         for x in s:
             result += roman_dict[x]
         return result
+
+==========================================================================================================================================
+
+Code:
+class Solution:
+    def longestCommonPrefix(self, strs: List[str]) -> str:
+        letter_groups, longest_pre = zip(*strs), ""
+        for letter_group in letter_groups:
+            if len(set(letter_group)) > 1:
+                break
+            longest_pre += letter_group[0]
+        return longest_pre
